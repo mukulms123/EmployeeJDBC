@@ -1,0 +1,73 @@
+19/03/2021 10:11:18,337 AM INFO main com.cg.util.DBUtil - DB Connected- {PASSWORD=cap1234, DRIVER=oracle.jdbc.driver.OracleDriver, USER=capgemini, URL=jdbc:oracle:thin:@localhost:1521:xe}
+19/03/2021 10:11:19,006 AM ERROR main com.cg.dao.EmployeeDaoImpl - SqlError-  ORA-00001: unique constraint (CAPGEMINI.SYS_C003999) violated
+
+19/03/2021 10:14:13,614 AM INFO main com.cg.util.DBUtil - DB Connected- {PASSWORD=cap1234, DRIVER=oracle.jdbc.driver.OracleDriver, USER=capgemini, URL=jdbc:oracle:thin:@localhost:1521:xe}
+19/03/2021 10:14:13,944 AM INFO main com.cg.dao.EmployeeDaoImpl - Created User- Employee [id=1239, name=fsda, desig=asdsf, mobile=987452845]
+19/03/2021 10:15:12,861 AM INFO main com.cg.util.DBUtil - DB connection clossed
+19/03/2021 10:38:58,658 AM INFO main com.cg.util.DBUtil - DB Connected- {PASSWORD=cap1234, DRIVER=oracle.jdbc.driver.OracleDriver, USER=capgemini, URL=jdbc:oracle:thin:@localhost:1521:xe}
+19/03/2021 10:38:58,659 AM INFO main com.cg.util.DBUtil - DB connection clossed
+19/03/2021 12:06:09,555 PM INFO main com.cg.util.DBUtil - DB Connected- {PASSWORD=cap1234, DRIVER=oracle.jdbc.driver.OracleDriver, USER=capgemini, URL=jdbc:oracle:thin:@localhost:1521:xe}
+19/03/2021 12:06:09,915 PM ERROR main com.cg.dao.EmployeeDaoImpl - SqlError-  ORA-00001: unique constraint (CAPGEMINI.SYS_C003999) violated
+
+19/03/2021 12:06:37,202 PM ERROR main com.cg.dao.EmployeeDaoImpl - SqlError-  ORA-00001: unique constraint (CAPGEMINI.SYS_C003999) violated
+
+19/03/2021 12:07:03,229 PM INFO main com.cg.dao.EmployeeDaoImpl - Created User- Employee [id=1200, name=Mukul, desig=asdf, mobile=7846513987]
+19/03/2021 12:08:28,894 PM INFO main com.cg.util.DBUtil - DB Connected- {PASSWORD=cap1234, DRIVER=oracle.jdbc.driver.OracleDriver, USER=capgemini, URL=jdbc:oracle:thin:@localhost:1521:xe}
+19/03/2021 12:08:29,156 PM ERROR main com.cg.dao.EmployeeDaoImpl - SqlError-  ORA-00001: unique constraint (CAPGEMINI.SYS_C003999) violated
+
+19/03/2021 12:35:19,575 PM INFO main com.cg.util.DBUtil - DB Connected- {PASSWORD=cap1234, DRIVER=oracle.jdbc.driver.OracleDriver, USER=capgemini, URL=jdbc:oracle:thin:@localhost:1521:xe}
+19/03/2021 12:36:18,005 PM INFO main com.cg.util.DBUtil - DB Connected- {PASSWORD=cap1234, DRIVER=oracle.jdbc.driver.OracleDriver, USER=capgemini, URL=jdbc:oracle:thin:@localhost:1521:xe}
+19/03/2021 12:36:18,395 PM ERROR main com.cg.dao.EmployeeDaoImpl - Update- sqlerror- ORA-01747: invalid user.table.column, table.column, or column specification
+
+19/03/2021 12:36:53,988 PM INFO main com.cg.util.DBUtil - DB Connected- {PASSWORD=cap1234, DRIVER=oracle.jdbc.driver.OracleDriver, USER=capgemini, URL=jdbc:oracle:thin:@localhost:1521:xe}
+19/03/2021 12:36:54,394 PM ERROR main com.cg.dao.EmployeeDaoImpl - Update- sqlerror- ORA-00904: "SADFAS": invalid identifier
+
+19/03/2021 12:38:54,574 PM INFO main com.cg.util.DBUtil - DB Connected- {PASSWORD=cap1234, DRIVER=oracle.jdbc.driver.OracleDriver, USER=capgemini, URL=jdbc:oracle:thin:@localhost:1521:xe}
+19/03/2021 12:38:54,827 PM ERROR main com.cg.dao.EmployeeDaoImpl - Update- sqlerror- ORA-00904: "ASDFSDF": invalid identifier
+
+19/03/2021 12:39:04,140 PM INFO main com.cg.util.DBUtil - DB connection clossed
+19/03/2021 12:46:28,236 PM INFO main com.cg.util.DBUtil - DB Connected- {PASSWORD=cap1234, DRIVER=oracle.jdbc.driver.OracleDriver, USER=capgemini, URL=jdbc:oracle:thin:@localhost:1521:xe}
+19/03/2021 12:46:28,376 PM ERROR main com.cg.dao.EmployeeDaoImpl - Update- sqlerror- ORA-00904: "DSFHASD": invalid identifier
+
+19/03/2021 12:46:35,876 PM INFO main com.cg.util.DBUtil - DB connection clossed
+19/03/2021 12:47:54,217 PM INFO main com.cg.util.DBUtil - DB Connected- {PASSWORD=cap1234, DRIVER=oracle.jdbc.driver.OracleDriver, USER=capgemini, URL=jdbc:oracle:thin:@localhost:1521:xe}
+19/03/2021 12:47:54,329 PM ERROR main com.cg.dao.EmployeeDaoImpl - Update- sqlerror- ORA-01747: invalid user.table.column, table.column, or column specification
+
+19/03/2021 12:48:41,036 PM ERROR main com.cg.dao.EmployeeDaoImpl - Update- sqlerror- ORA-00904: "ASDFG": invalid identifier
+
+19/03/2021 12:50:01,803 PM INFO main com.cg.util.DBUtil - DB Connected- {PASSWORD=cap1234, DRIVER=oracle.jdbc.driver.OracleDriver, USER=capgemini, URL=jdbc:oracle:thin:@localhost:1521:xe}
+19/03/2021 12:51:18,813 PM INFO main com.cg.util.DBUtil - DB connection clossed
+19/03/2021 12:51:43,469 PM INFO main com.cg.util.DBUtil - DB Connected- {PASSWORD=cap1234, DRIVER=oracle.jdbc.driver.OracleDriver, USER=capgemini, URL=jdbc:oracle:thin:@localhost:1521:xe}
+19/03/2021 12:54:27,724 PM INFO main com.cg.util.DBUtil - DB Connected- {PASSWORD=cap1234, DRIVER=oracle.jdbc.driver.OracleDriver, USER=capgemini, URL=jdbc:oracle:thin:@localhost:1521:xe}
+19/03/2021 12:54:27,837 PM ERROR main com.cg.dao.EmployeeDaoImpl - Update- sqlerror- ORA-01747: invalid user.table.column, table.column, or column specification
+
+19/03/2021 13:02:28,924 PM INFO main com.cg.util.DBUtil - DB Connected- {PASSWORD=cap1234, DRIVER=oracle.jdbc.driver.OracleDriver, USER=capgemini, URL=jdbc:oracle:thin:@localhost:1521:xe}
+19/03/2021 13:02:46,654 PM INFO main com.cg.dao.EmployeeDaoImpl - Updated user with id: 1234
+19/03/2021 13:03:29,258 PM INFO main com.cg.util.DBUtil - DB Connected- {PASSWORD=cap1234, DRIVER=oracle.jdbc.driver.OracleDriver, USER=capgemini, URL=jdbc:oracle:thin:@localhost:1521:xe}
+19/03/2021 13:03:29,310 PM ERROR main com.cg.dao.EmployeeDaoImpl - Update- sqlerror- ORA-01747: invalid user.table.column, table.column, or column specification
+
+19/03/2021 13:04:08,749 PM INFO main com.cg.dao.EmployeeDaoImpl - Updated user with id: 1234
+19/03/2021 13:04:42,263 PM INFO main com.cg.util.DBUtil - DB Connected- {PASSWORD=cap1234, DRIVER=oracle.jdbc.driver.OracleDriver, USER=capgemini, URL=jdbc:oracle:thin:@localhost:1521:xe}
+19/03/2021 13:04:42,323 PM INFO main com.cg.dao.EmployeeDaoImpl - Updated user with id: 1234
+19/03/2021 13:04:53,142 PM INFO main com.cg.util.DBUtil - DB connection clossed
+19/03/2021 14:43:19,640 PM INFO main com.cg.util.DBUtil - DB Connected- {PASSWORD=cap1234, DRIVER=oracle.jdbc.driver.OracleDriver, USER=capgemini, URL=jdbc:oracle:thin:@localhost:1521:xe}
+19/03/2021 14:43:19,721 PM INFO main com.cg.dao.EmployeeDaoImpl - Updated user with id: 1234
+19/03/2021 14:43:49,310 PM INFO main com.cg.util.DBUtil - DB connection clossed
+19/03/2021 16:44:47,118 PM INFO main com.cg.util.DBUtil - DB Connected- {PASSWORD=cap1234, DRIVER=oracle.jdbc.driver.OracleDriver, USER=capgemini, URL=jdbc:oracle:thin:@localhost:1521:xe}
+19/03/2021 16:44:47,186 PM INFO main com.cg.dao.EmployeeDaoImpl - Deleted Employee with id- 1234
+19/03/2021 16:47:49,218 PM INFO main com.cg.util.DBUtil - DB connection clossed
+19/03/2021 16:52:28,587 PM INFO main com.cg.util.DBUtil - DB Connected- {PASSWORD=cap1234, DRIVER=oracle.jdbc.driver.OracleDriver, USER=capgemini, URL=jdbc:oracle:thin:@localhost:1521:xe}
+19/03/2021 16:52:41,665 PM INFO main com.cg.util.DBUtil - DB connection clossed
+19/03/2021 16:59:29,858 PM INFO main com.cg.util.DBUtil - DB Connected- {PASSWORD=cap1234, DRIVER=oracle.jdbc.driver.OracleDriver, USER=capgemini, URL=jdbc:oracle:thin:@localhost:1521:xe}
+19/03/2021 16:59:29,910 PM ERROR main com.cg.dao.EmployeeDaoImpl - Tried Deleting Employee with id- 1234
+19/03/2021 17:16:41,274 PM INFO main com.cg.util.DBUtil - DB Connected- {PASSWORD=cap1234, DRIVER=oracle.jdbc.driver.OracleDriver, USER=capgemini, URL=jdbc:oracle:thin:@localhost:1521:xe}
+19/03/2021 17:16:41,335 PM ERROR main com.cg.dao.EmployeeDaoImpl - Display-SQL error- ORA-00923: FROM keyword not found where expected
+
+19/03/2021 17:18:04,227 PM INFO main com.cg.util.DBUtil - DB Connected- {PASSWORD=cap1234, DRIVER=oracle.jdbc.driver.OracleDriver, USER=capgemini, URL=jdbc:oracle:thin:@localhost:1521:xe}
+19/03/2021 17:18:04,280 PM ERROR main com.cg.dao.EmployeeDaoImpl - Display-SQL error- ORA-00923: FROM keyword not found where expected
+
+19/03/2021 17:18:34,546 PM ERROR main com.cg.dao.EmployeeDaoImpl - Display-SQL error- ORA-00923: FROM keyword not found where expected
+
+19/03/2021 17:19:44,552 PM INFO main com.cg.util.DBUtil - DB Connected- {PASSWORD=cap1234, DRIVER=oracle.jdbc.driver.OracleDriver, USER=capgemini, URL=jdbc:oracle:thin:@localhost:1521:xe}
+19/03/2021 17:19:44,777 PM INFO main com.cg.dao.EmployeeDaoImpl - Display employee- Employee [id=1235, name=Mukul, desig=Developer, mobile=9876431234]
+19/03/2021 17:19:50,920 PM ERROR main com.cg.dao.EmployeeDaoImpl - Tried Deleting Employee with id- 1234
